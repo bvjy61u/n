@@ -16,6 +16,9 @@ function App() {
         <p>
           2022
         </p>
+        <p>
+          copyright 2023
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
